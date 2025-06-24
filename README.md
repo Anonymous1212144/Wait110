@@ -1,5 +1,5 @@
 # Wait110
-Zero instruction Turing-complete programming language. A variant of Wait where the current nanotime is used as the initial state of Rule 110. This program is intended to be extremely future-proof, and should run any time in the future where they can compile a program following the current C standard (C23).
+Zero-instruction Turing-complete programming language. A variant of Wait, where the current nanotime is used as the initial state of Rule 110. This program is designed to be extremely future-proof and should run at any point in the future, provided there is a compiler that supports the current C standard (C23).
 
 Features include:
 - Expanding array so it can run any initial state until hardware limit
